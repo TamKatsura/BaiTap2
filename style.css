@@ -128,7 +128,7 @@
     margin-left: -70px;
 }
 #slider .container {
-    background-image: url(hinh/hero-bottom-shape-2.svg);
+    background-image: url(./img/hero-bottom-shape-2.svg);
     background-position: center bottom;
     background-repeat: no-repeat;    
 }
@@ -154,7 +154,7 @@
 }
 /* end news1  */
 #news2 .container{
-    background-image: url(hinh/about-bg-shape.svg);
+    background-image: url(./img/about-bg-shape.svg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-color: white;
@@ -244,7 +244,7 @@
        
 }
 #news4 .wrapper{
-    background-image: url(hinh/cta-bg.jpg);
+    background-image: url(./img/cta-bg.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     opacity: 1;
